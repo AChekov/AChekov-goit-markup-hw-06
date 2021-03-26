@@ -921,7 +921,7 @@ overflow: hidden;
 }
 
 .modal-form-term:checked + .modal-form-check-desc::before {
- background-image: url(/img/icon-check.svg);
+ background-image: url(../img/icon-check.svg);
  background-position: center;
  border: none;
 }
